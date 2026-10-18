@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目提示词沉淀与迭代"
+  short_description: "从成功项目提炼可复用提示词，追踪版本来源并持续迭代和发布到 GitHub"
+  default_prompt: "使用 $project-prompt-evolver，为当前项目检索复用提示词，或在项目完成后提炼经验并迭代发布。"

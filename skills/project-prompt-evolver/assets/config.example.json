@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "library": {
+    "repository": "YOUR-OWNER/YOUR-PROMPT-LIBRARY",
+    "branch": "main",
+    "prefix": "prompts"
+  },
+  "publishing": {
+    "mode": "direct",
+    "authorized": false
+  },
+  "privacy": {
+    "deny_terms": []
+  }
+}
